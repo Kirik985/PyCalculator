@@ -1,3 +1,2 @@
 # PyCalculator
-It's my calculator. It works on Python and was built to .exe file using pyinstaller.
- Current version is 0.3
+This is my VERY simple command line like calculator written in Python just for fun. It includes instructions which guide the user through the process of CALCULATION
