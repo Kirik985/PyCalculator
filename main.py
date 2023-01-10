@@ -42,6 +42,6 @@ elif (mode == "/"):
     elif (b != 0):
     	result = a / b
 print(str(a) + " " + mode + " " + str(b) + " = " + str(result))
-print("Thanks for using PyCulator!")
+print("Thanks for using PyCulator! Press any key to exit...")
 input()
 sys.exit()
